@@ -1,0 +1,11 @@
+.App {
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 5%;
+  font-family: 'Poppins', sans-serif;
+}
+p {
+  text-align: center;
+  font-style: italic;
+}
+
